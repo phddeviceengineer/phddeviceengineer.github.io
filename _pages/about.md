@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Things I learned as a PhD student"
-excerpt: "About me"
+excerpt: "Front page"
 author_profile: true
 redirect_from: 
   - /about/
