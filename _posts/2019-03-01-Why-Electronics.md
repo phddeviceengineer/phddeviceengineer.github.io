@@ -2,6 +2,7 @@
 title: 'Why electronics?'
 date: 2019-03-01
 permalink: /posts/2019/03/why-electronics/
+comments: true
 tags:
   - General
   - Fundamental
